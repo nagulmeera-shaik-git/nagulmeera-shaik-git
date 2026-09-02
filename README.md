@@ -10,6 +10,7 @@ Currently expanding my skills into Azure AI and Generative AI technologies, focu
  
 ### Backend Development
 - Java
+- Python
 - Spring Boot
 - REST APIs
 - Microservices
@@ -22,7 +23,6 @@ Currently expanding my skills into Azure AI and Generative AI technologies, focu
 - Azure Functions
 - Azure App Service
 - LangChain
-- Python
  
 ### Tools & Platforms
 - Git & GitHub
