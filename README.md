@@ -1,16 +1,28 @@
-## Hi there 👋
-
-<!--
-**nagulmeera-shaik-git/nagulmeera-shaik-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Nagulmeera Shaik 👋
+ 
+Specialist - Software Developer with 10+ years of experience in Java and Spring Boot.
+ 
+## Skills 
+- Java
+- Spring Boot
+- REST APIs
+- SQL
+- Git
+ 
+## Currently Learning 
+- Python
+- Azure OpenAI
+- Azure AI Search
+- LangChain
+- RAG Applications
+ 
+## Career Objective 
+Transitioning from Java Developer to Azure AI Engineer by building practical AI solutions using Azure services.
+ 
+## Projects 
+- Azure OpenAI Java Integration
+- Spring Boot AI Chatbot
+- Azure AI Search RAG Application
+ 
+## Contact
+LinkedIn: Your LinkedIn URL
