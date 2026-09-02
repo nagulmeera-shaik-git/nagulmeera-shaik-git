@@ -1,29 +1,66 @@
-Java & Spring Boot Developer | Transitioning to Azure AI Engineer | Azure OpenAI | Azure AI Search | RAG Applications
-
-# Hi, I'm Nagulmeera Shaik 👋 
-Specialist - Software Developer with 10+ years of experience in Java and Spring Boot.
+# Hi, I'm Nagulmeera Shaik 👋
  
-## Skills 
+## About Me
+ 
+Experienced Software Developer with 10+ years of expertise in Java application development, Spring Boot, REST APIs, and enterprise software solutions.
+ 
+Currently expanding my skills into Azure AI and Generative AI technologies, focusing on building intelligent applications using Azure OpenAI, Azure AI Search, Retrieval-Augmented Generation (RAG), and AI Agents.
+ 
+## Technical Skills
+ 
+### Backend Development
 - Java
-- Python
 - Spring Boot
 - REST APIs
+- Microservices
 - SQL
-- Git
  
-## Currently Learning 
-- Azure OpenAI
+### Cloud & AI
+- Azure OpenAI Service
 - Azure AI Search
+- Azure AI Foundry
+- Azure Functions
+- Azure App Service
 - LangChain
-- RAG Applications
+- Python
  
-## Career Objective 
-Transitioning from Java Developer to Azure AI Engineer by building practical AI solutions using Azure services.
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- IntelliJ IDEA
+- Postman
+- Maven
  
-## Projects 
-- Azure OpenAI Java Integration
-- Spring Boot AI Chatbot
-- Azure AI Search RAG Application
+## Currently Learning
  
-## Contact
-LinkedIn: Your LinkedIn URL
+- Generative AI Application Development
+- Retrieval-Augmented Generation (RAG)
+- AI Agent Development
+- Prompt Engineering
+- Azure AI Ecosystem
+ 
+## Featured Projects
+ 
+### Azure OpenAI Java Integration
+Java application demonstrating Azure OpenAI API integration and prompt engineering.
+ 
+### Spring Boot AI Chatbot
+AI-powered chatbot built using Spring Boot and Azure OpenAI.
+ 
+### Azure AI Search RAG Application
+Document search and question-answering solution using Azure AI Search and vector retrieval.
+ 
+## Career Goal
+ 
+Transitioning from Senior Java Development into Azure AI Engineering by combining enterprise software development experience with modern AI technologies.
+ 
+## Certifications
+ 
+- Azure Fundamentals (Planned/In Progress)
+- Azure AI Fundamentals (Planned/In Progress)
+- Microsoft Learn AI Learning Paths
+ 
+## Connect With Me
+ 
+- LinkedIn: [Add Your LinkedIn URL]
+- GitHub: [Your GitHub Profile]
