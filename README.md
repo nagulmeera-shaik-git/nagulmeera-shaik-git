@@ -1,13 +1,11 @@
 # Hi, I'm Nagulmeera Shaik 👋
  
-## About Me
- 
+## About Me 
 Experienced Software Developer with 10+ years of expertise in Java application development, Spring Boot, REST APIs, and enterprise software solutions.
  
 Currently expanding my skills into Azure AI and Generative AI technologies, focusing on building intelligent applications using Azure OpenAI, Azure AI Search, Retrieval-Augmented Generation (RAG), and AI Agents.
  
-## Technical Skills
- 
+## Technical Skills 
 ### Backend Development
 - Java
 - Python
@@ -31,8 +29,7 @@ Currently expanding my skills into Azure AI and Generative AI technologies, focu
 - Postman
 - Maven
  
-## Currently Learning
- 
+## Currently Learning 
 - Generative AI Application Development
 - Retrieval-Augmented Generation (RAG)
 - AI Agent Development
@@ -50,17 +47,14 @@ AI-powered chatbot built using Spring Boot and Azure OpenAI.
 ### Azure AI Search RAG Application
 Document search and question-answering solution using Azure AI Search and vector retrieval.
  
-## Career Goal
- 
+## Career Goal 
 Transitioning from Senior Java Development into Azure AI Engineering by combining enterprise software development experience with modern AI technologies.
  
-## Certifications
- 
+## Certifications 
 - Azure Fundamentals (Planned/In Progress)
 - Azure AI Fundamentals (Planned/In Progress)
 - Microsoft Learn AI Learning Paths
  
-## Connect With Me
- 
+## Connect With Me 
 - LinkedIn: [Add Your LinkedIn URL]
 - GitHub: [Your GitHub Profile]
