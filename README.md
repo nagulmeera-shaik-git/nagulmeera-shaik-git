@@ -4,13 +4,13 @@ Specialist - Software Developer with 10+ years of experience in Java and Spring 
  
 ## Skills 
 - Java
+- Python
 - Spring Boot
 - REST APIs
 - SQL
 - Git
  
 ## Currently Learning 
-- Python
 - Azure OpenAI
 - Azure AI Search
 - LangChain
