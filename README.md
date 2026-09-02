@@ -1,8 +1,6 @@
-# Hi, I'm Nagulmeera Shaik 👋
- 
+# Hi, I'm Nagulmeera Shaik 👋 
 ## About Me 
-Experienced Software Developer with 10+ years of expertise in Java application development, Spring Boot, REST APIs, and enterprise software solutions.
- 
+Experienced Software Developer with 10+ years of expertise in Java application development, Spring Boot, REST APIs, and enterprise software solutions. 
 Currently expanding my skills into Azure AI and Generative AI technologies, focusing on building intelligent applications using Azure OpenAI, Azure AI Search, Retrieval-Augmented Generation (RAG), and AI Agents.
  
 ## Technical Skills 
