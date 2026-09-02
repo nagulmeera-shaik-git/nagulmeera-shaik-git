@@ -1,5 +1,6 @@
-# Hi, I'm Nagulmeera Shaik 👋
- 
+Java & Spring Boot Developer | Transitioning to Azure AI Engineer | Azure OpenAI | Azure AI Search | RAG Applications
+
+# Hi, I'm Nagulmeera Shaik 👋 
 Specialist - Software Developer with 10+ years of experience in Java and Spring Boot.
  
 ## Skills 
